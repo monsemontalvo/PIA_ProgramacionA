@@ -1,0 +1,120 @@
+//{{NO_DEPENDENCIES}}
+// Archivo de inclusión generado de Microsoft Visual C++.
+// Usado por PIA_ProgramacionA.rc
+//
+#define AGENDA                          7
+#define DLG_VENTANA1                    101
+#define IDB_BITMAP1                     111
+#define MENU_INICIO                     114
+#define INFO_DOC                        116
+#define INFO_DOC_EDIT                   118
+#define IDR_MENU1                       130
+#define ELIMINARCITA                    131
+#define PRE_MODIFCITA                   133
+#define MODIFCITA                       135
+#define FILTRADO                        137
+#define BTN_HOLA                        1002
+#define BTN_NOMBRE_IDE                  1006
+#define BTN_CEDULA_IDE                  1007
+#define BTN_CLAVE_IDE                   1008
+#define BTN_INGRESAR_ISESION            1009
+#define BTN_CONTRA_IDE                  1009
+#define BTN_GUARDAR_IDE                 1010
+#define BTN_MANEJOC_IDE                 1011
+#define BTN_AGENDA_IDE                  1012
+#define BTN_SALIR_IDE                   1013
+#define A_CITA                          1025
+#define BTN_AGENDA_ID                   1029
+#define BTN_SALIR_ID                    1030
+#define IDC_INFODOC_ID                  1031
+#define IDC_NOMBRE_ID                   1032
+#define IDC_CEDULA_ID                   1033
+#define BTN_NOMBRE_ID                   1034
+#define BTN_CEDULA_ID                   1035
+#define IDC_CLAVE_ID                    1036
+#define BTN_CLAVE_ID                    1037
+#define BTN_CONTRA_ID                   1039
+#define IMG_ID                          1040
+#define BTN_EDITINFO_ID                 1041
+#define IDC_CONTRA_ID                   1042
+#define LISTA_CITAS_AGENDA              1064
+#define INICIARSESION                   1064
+#define IDC_CITAS_AGENDA                1065
+#define BTN_INFODOC_AGENDA              1066
+#define BTN_MANEJOC_AGENDA              1067
+#define BTN_SALIR_AGENDA                1068
+#define IMG_INICIO                      1069
+#define BTN_INFODOC_INICIO              1070
+#define BTN_MANEJOC_INICIO              1071
+#define BTN_AGENDA_INICIO               1072
+#define BTN_SALIR_INICIO                1073
+#define IDC_BIENVENIDO_ISESION          1079
+#define IDC_USUARIO_ISESION             1080
+#define BTN_USUARIO_ISESION             1081
+#define IDC_CONTRA_ISESION              1082
+#define BTN_CONTRA_ISESION              1083
+#define IMG_ISESION                     1084
+#define BTN_INFODOC_ACITA               1085
+#define BTN_AGENDA_ACITA                1086
+#define BTN_SALIR_ACITA                 1087
+#define IDC_NUEVACITA_ACITA             1088
+#define IDC_FECHA_ACITA                 1089
+#define IDC_NOMBRE_ACITA                1090
+#define BTN_NOMBRE_ACITA                1091
+#define IDC_TELEFONO_ACITA              1092
+#define BTN_TELEFONO_ACITA              1093
+#define IDC_ESPECIE_ACITA               1094
+#define COMBO_ESPECIE_ACITA             1095
+#define IDC_MASCOTA_ACITA               1096
+#define BTN_MASCOTA_ACITA               1097
+#define IDC_MOTIVO_ACITA                1098
+#define BTN_MOTIVO_ACITA                1099
+#define IDC_COSTO_ACITA                 1100
+#define BTN_COSTO_ACITA                 1101
+#define IDC_ESTATUS_ACITA               1102
+#define BTN_ESTATUS_ACITA               1103
+#define BTN_GUARDAR_ACITA               1104
+#define BTN_MANEJOC_ID                  1115
+#define IDC_INFODOC_IDE                 1116
+#define IDC_NOMBRE_IDE                  1117
+#define IDC_CEDULA_IDE                  1118
+#define IDC_CLAVE_IDE                   1119
+#define IDC_CONTRA_IDE                  1120
+#define IMG_IDE                         1121
+#define IDC_HORA_ACITA                  1124
+#define BTN_ELIMINARC_AGENDA            1125
+#define BTN_MODIFICARC_AGENDA           1126
+#define IDC_ELIMCITA                    1128
+#define BTN_DELETE                      1129
+#define BTN_CANCEL                      1130
+#define IDC_STATICS                     1131
+#define NOMC_MODIFCITA                  1132
+#define BTN_MODIFCITA                   1133
+#define BTN_CANCEL_MC                   1134
+#define CLIENTE_MODIFICABLE             1135
+#define FECHA_MODIFICABL                1136
+#define HORA_MODIFICABLE                1137
+#define TELEFONO_MODIFICABLE            1138
+#define MASCOTA_MODIFICABLE             1139
+#define MOTIVO_MODIFICABLE              1140
+#define COSTO_MODIFICABLE               1141
+#define ESPECIE_MODIFICABLE             1142
+#define ESTATUS_MODIFICABLE             1143
+#define GUARDAR_MODIFICACION            1144
+#define LISTA_CITAS_FILTRADO            1145
+#define FECHA_FILTRO1                   1146
+#define FECHA_FILTRO2                   1147
+#define BTN_FILTRAR                     1148
+#define BTN_CANCELAR                    1149
+#define BTN_FILTRADO_AGENDA             1150
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        139
+#define _APS_NEXT_COMMAND_VALUE         40001
+#define _APS_NEXT_CONTROL_VALUE         1151
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
